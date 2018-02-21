@@ -14,7 +14,6 @@ public class Bank {
     public Bank() {
         bankName = "Illini Bank";
     }
-
     /**
      * Withdraw money from an account.
      * <p>
@@ -26,9 +25,7 @@ public class Bank {
      * @return boolean
      */
     public boolean withdrawMoney(final BankAccount bankAccount, final double amount) {
-        /*
-         * Implement this function
-         */
+        if ()
     }
 
     /**
